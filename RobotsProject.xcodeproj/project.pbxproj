@@ -13,6 +13,7 @@
 		82B80B4B25E4C01000360004 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B80B4A25E4C01000360004 /* Assets.xcassets */; };
 		82B80B4E25E4C01000360004 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B80B4D25E4C01000360004 /* Preview Assets.xcassets */; };
 		82B80B5125E4C01000360004 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82B80B4F25E4C01000360004 /* LaunchScreen.storyboard */; };
+		82B80B5A25E4C22400360004 /* example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B80B5925E4C22400360004 /* example.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		82B80B4D25E4C01000360004 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		82B80B5025E4C01000360004 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82B80B5225E4C01000360004 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82B80B5925E4C22400360004 /* example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = example.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				82B80B4F25E4C01000360004 /* LaunchScreen.storyboard */,
 				82B80B5225E4C01000360004 /* Info.plist */,
 				82B80B4C25E4C01000360004 /* Preview Content */,
+				82B80B5925E4C22400360004 /* example.swift */,
 			);
 			path = RobotsProject;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82B80B5A25E4C22400360004 /* example.swift in Sources */,
 				82B80B4525E4C00E00360004 /* AppDelegate.swift in Sources */,
 				82B80B4725E4C00E00360004 /* SceneDelegate.swift in Sources */,
 				82B80B4925E4C00E00360004 /* ContentView.swift in Sources */,
